@@ -1,6 +1,8 @@
 #include <iostream>
 
-void main{
+void main {
+    
     std::cout<<"Ceci est un test";
+    
     return 0;
 }
